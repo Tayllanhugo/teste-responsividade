@@ -20,3 +20,13 @@
 .menus li {
     margin: 40px;
 }
+
+@media (max-width: 768px) {
+    #container {
+        width: 600px;
+    }
+
+    .menus li {
+        margin: 30px;
+    }
+}
