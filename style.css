@@ -30,3 +30,13 @@
         margin: 30px;
     }
 }
+
+@media (max-width: 600px) {
+    #container {
+        width: 420px;
+    }
+
+    .menus li {
+        margin: 15px;
+    }
+}
