@@ -248,14 +248,24 @@ tr td a:hover {
         width: 400px;
     }
 
+    #container2 {
+        padding: 50px;
+    }
+
     .menus li {
         margin: 5px;
         font-size: 0.6em;
     }
 
     table {
-        font-size: 10px;
-        margin-left: -5px;
+        font-size: 15px;
+        position: relative;
+        right: 26px;
+    }
+
+    .titulo2 {
+        position: relative;
+        right: 25px;
     }
 }
 
@@ -273,12 +283,13 @@ tr td a:hover {
         width: 150px;
     }
 
-    .titulo2 h1 {
-        margin-left: -50px;
+    .titulo2  {
+        position: relative;
+        left: -40px;
     }
 
     table {
-        font-size: 8px;
-        margin-left: -22px;
+        font-size: 14px;
+        margin-left: -17px;
     }
 }
