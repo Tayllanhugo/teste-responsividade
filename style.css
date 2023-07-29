@@ -237,9 +237,14 @@ tr td a:hover {
     .menus li {
         margin: 2px;
     }
+    
+    table {
+        font-size: 11px;
+    }
 
-    th, td {
-        padding: 0px;
+    .gols {
+        position: relative;
+        left: 5px;
     }
 }
 
