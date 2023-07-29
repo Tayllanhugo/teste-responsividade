@@ -211,7 +211,7 @@ tr td a:hover {
     }
 }
 
-@media (max-width: 612px) {
+@media (max-width: 600px) {
     #container {
         width: 550px;
     }
@@ -220,14 +220,12 @@ tr td a:hover {
         margin: 10px;
     }
 
-    table {
-        font-size: 15px;
-        position: relative;
-        right: 35px;
+    th, td {
+        padding: 3px;
     }
 
-    #container2 {
-        padding: 40px;
+    table {
+        margin-left: -10px;
     }
 }
 
@@ -239,14 +237,9 @@ tr td a:hover {
     .menus li {
         margin: 2px;
     }
-    
-    table {
-        font-size: 11px;
-    }
 
-    .gols {
-        position: relative;
-        left: 5px;
+    th, td {
+        padding: 0px;
     }
 }
 
