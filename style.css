@@ -260,12 +260,18 @@ tr td a:hover {
     table {
         font-size: 14px;
         position: relative;
-        right: 25px;
+        right: 30px;
+        padding: 5px;
     }
 
     .titulo2 {
         position: relative;
         right: 25px;
+    }
+
+    .gols {
+        position: relative;
+        left: 4px;
     }
 }
 
