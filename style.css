@@ -273,6 +273,11 @@ tr td a:hover {
         position: relative;
         left: 4px;
     }
+
+    .jogos {
+        position: relative;
+        right: 5px;
+    }
 }
 
 @media (max-width: 375px) {
